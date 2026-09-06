@@ -14,7 +14,9 @@ cargo install --path .
 cp /root/.cargo/bin/luxweb /usr/local/bin
 
 chmod +x /usr/local/bin/luxweb
+
 -----------------------------
+
 luxweb
 
 full scan 
