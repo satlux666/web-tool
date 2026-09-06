@@ -1,0 +1,1 @@
+/home/tlos/Desktop/luxweb/target/release/luxweb: /home/tlos/Desktop/luxweb/src/banner.rs /home/tlos/Desktop/luxweb/src/extract.rs /home/tlos/Desktop/luxweb/src/main.rs /home/tlos/Desktop/luxweb/src/recon.rs /home/tlos/Desktop/luxweb/src/report.rs /home/tlos/Desktop/luxweb/src/scanner.rs /home/tlos/Desktop/luxweb/src/utils.rs /home/tlos/Desktop/luxweb/src/wordlists.rs

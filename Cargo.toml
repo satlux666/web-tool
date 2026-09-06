@@ -1,0 +1,19 @@
+[package]
+name = "luxweb"
+version = "3.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12", features = ["blocking", "json", "cookies", "rustls-tls"], default-features = false }
+regex = "1.10"
+clap = { version = "4.5", features = ["derive"] }
+colored = "2.1"
+dns-lookup = "2.0"
+rayon = "1.10"
+url = "2.5"
+scraper = "0.20"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+indicatif = "0.17"
+chrono = "0.4"
+csv = "1.3"

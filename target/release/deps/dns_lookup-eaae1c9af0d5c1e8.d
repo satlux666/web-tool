@@ -1,0 +1,13 @@
+/home/tlos/Desktop/luxweb/target/release/deps/dns_lookup-eaae1c9af0d5c1e8.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/addrinfo.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/err.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/hostname.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lookup.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/nameinfo.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/types.rs
+
+/home/tlos/Desktop/luxweb/target/release/deps/libdns_lookup-eaae1c9af0d5c1e8.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/addrinfo.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/err.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/hostname.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lookup.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/nameinfo.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/types.rs
+
+/home/tlos/Desktop/luxweb/target/release/deps/libdns_lookup-eaae1c9af0d5c1e8.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/addrinfo.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/err.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/hostname.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lookup.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/nameinfo.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/types.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/addrinfo.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/err.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/hostname.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/lookup.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/nameinfo.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dns-lookup-2.1.1/src/types.rs:
